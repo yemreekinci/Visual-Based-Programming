@@ -1,2 +1,5 @@
 # Visual-Based-Programming
-İstanbul Arel University Project - Visual Based Programming Course
+
+TR - Database için xampp kullanıldı. Ekran görüntüleri klasör içine eklendi.
+
+EN - Xampp is used for the database. The screenshots are inside the specific folder.
